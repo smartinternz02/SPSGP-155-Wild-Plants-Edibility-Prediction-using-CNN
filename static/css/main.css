@@ -1,0 +1,158 @@
+
+body{background-color:  	black;
+
+  background-image: url('https://images.template.net/wp-content/uploads/2015/11/25190740/Ash-Color-Plain-Wallpaper-Download.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 30%;
+}
+
+
+
+
+
+h1{
+ font-size: 45px;
+  font-family: "Lucida Console", Courier, monospace;
+text-align:center;
+color:#3f82e8;
+}
+h5{
+ font-size: 40px;
+  
+text-align:center;
+color:red;
+}
+th, td {
+  padding: 50px;
+  text-align: left;   
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT_cKYBBXwJrFwyMeGuiIj_6adtNEdkGK7SHKksilr7MKJqp9-&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.glow {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+
+p{
+font-size: 20px;
+  color: black;
+
+}
+.c{
+font-size: 20px;
+  color: black;
+  }
+h3{
+font-size: 20px;
+  color: black;
+}
+h2{
+font-size: 20px;
+  color: white;
+  }
+  
+h4{
+font-family:Rockwell;
+text-align:center;
+font-size: 30px;
+  color: red;
+  }
+
+#result{
+font-size: 20px;
+  color: white;
+}
+
+     
+  .img-preview {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border: 5px solid #F8F8F8;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.img-preview>div {
+    width: 100%;
+    height: 100%;
+    background-size: 256px 256px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.transbox {
+  margin: 0px;
+  
+  background-color:#FFEBCD;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
+
+
+
+
+
+
+
+.example {
+color: black!important;
+text-transform: uppercase;
+text-decoration: none;
+background: #FFD662FF;
+padding: 20px;
+border-radius: 40px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+}
+
+.example:hover {
+background: #434343;
+letter-spacing: 1px;
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+}
+
+
+.custom-file-input::-webkit-file-upload-button {
+  visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
